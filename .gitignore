@@ -31,3 +31,6 @@ Thumbs.db
 # Optional: generated project files
 *.xcodeproj
 *.xcworkspace
+
+# Archviz Assets
+Content/ArchVizAssets/
